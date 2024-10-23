@@ -1,3 +1,3 @@
 # First-Demo
 My first ever Git Repository.
-Author - Mohd Arslaan
+Author - Mohd Arslaan (The Legend)
